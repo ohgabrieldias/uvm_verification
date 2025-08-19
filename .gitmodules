@@ -1,0 +1,4 @@
+[submodule "rtl"]
+	path = rtl
+	url = https://github.com/ohgabrieldias/VVCAritmethicDecoder
+	branch = AD_1xRE_4xEP-lite
